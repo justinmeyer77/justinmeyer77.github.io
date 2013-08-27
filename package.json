@@ -1,0 +1,14 @@
+{
+  "name": "justinmeyer77.github.io",
+  "version": "0.0.1",
+  "description": "github personal page",
+  "author": "justin meyer <justinmeyer77@gmail.com>",
+  "private": true,
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/justinmeyer77/justinmeyer77.github.io.git"
+  },
+  "devDependencies": {
+    "grunt": "*"
+  }
+}
