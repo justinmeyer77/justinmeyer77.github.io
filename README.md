@@ -9,4 +9,4 @@ Where to get more info:
 
 ## Copyright
 
-Copyright &copy; 2013 [CONTRIB](license/CONTRIB.md). See [LICENSE](license/LICENSE.md) for details.
+Copyright &copy; 2014 [CONTRIB](license/CONTRIB.md). See [LICENSE](license/LICENSE.md) for details.
